@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/time-clock/static/css/main.bef71664.chunk.css",
-    "main.js": "/time-clock/static/js/main.bbaeb1d7.chunk.js",
-    "main.js.map": "/time-clock/static/js/main.bbaeb1d7.chunk.js.map",
-    "runtime-main.js": "/time-clock/static/js/runtime-main.26b8979f.js",
-    "runtime-main.js.map": "/time-clock/static/js/runtime-main.26b8979f.js.map",
-    "static/js/2.bd21884a.chunk.js": "/time-clock/static/js/2.bd21884a.chunk.js",
-    "static/js/2.bd21884a.chunk.js.map": "/time-clock/static/js/2.bd21884a.chunk.js.map",
-    "static/js/3.97376498.chunk.js": "/time-clock/static/js/3.97376498.chunk.js",
-    "static/js/3.97376498.chunk.js.map": "/time-clock/static/js/3.97376498.chunk.js.map",
-    "index.html": "/time-clock/index.html",
-    "static/css/main.bef71664.chunk.css.map": "/time-clock/static/css/main.bef71664.chunk.css.map",
-    "static/js/2.bd21884a.chunk.js.LICENSE.txt": "/time-clock/static/js/2.bd21884a.chunk.js.LICENSE.txt"
+    "main.css": "/pomodoro-timer/static/css/main.bef71664.chunk.css",
+    "main.js": "/pomodoro-timer/static/js/main.bbaeb1d7.chunk.js",
+    "main.js.map": "/pomodoro-timer/static/js/main.bbaeb1d7.chunk.js.map",
+    "runtime-main.js": "/pomodoro-timer/static/js/runtime-main.c7e6189c.js",
+    "runtime-main.js.map": "/pomodoro-timer/static/js/runtime-main.c7e6189c.js.map",
+    "static/js/2.bd21884a.chunk.js": "/pomodoro-timer/static/js/2.bd21884a.chunk.js",
+    "static/js/2.bd21884a.chunk.js.map": "/pomodoro-timer/static/js/2.bd21884a.chunk.js.map",
+    "static/js/3.97376498.chunk.js": "/pomodoro-timer/static/js/3.97376498.chunk.js",
+    "static/js/3.97376498.chunk.js.map": "/pomodoro-timer/static/js/3.97376498.chunk.js.map",
+    "index.html": "/pomodoro-timer/index.html",
+    "static/css/main.bef71664.chunk.css.map": "/pomodoro-timer/static/css/main.bef71664.chunk.css.map",
+    "static/js/2.bd21884a.chunk.js.LICENSE.txt": "/pomodoro-timer/static/js/2.bd21884a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26b8979f.js",
+    "static/js/runtime-main.c7e6189c.js",
     "static/js/2.bd21884a.chunk.js",
     "static/css/main.bef71664.chunk.css",
     "static/js/main.bbaeb1d7.chunk.js"
