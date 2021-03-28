@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/time-clock/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/time-clock/static/js/main.47d6ac4d.chunk.js",
+    "main.js.map": "/time-clock/static/js/main.47d6ac4d.chunk.js.map",
+    "runtime-main.js": "/time-clock/static/js/runtime-main.12b948a8.js",
+    "runtime-main.js.map": "/time-clock/static/js/runtime-main.12b948a8.js.map",
+    "static/js/2.a47964d4.chunk.js": "/time-clock/static/js/2.a47964d4.chunk.js",
+    "static/js/2.a47964d4.chunk.js.map": "/time-clock/static/js/2.a47964d4.chunk.js.map",
+    "static/js/3.768832d0.chunk.js": "/time-clock/static/js/3.768832d0.chunk.js",
+    "static/js/3.768832d0.chunk.js.map": "/time-clock/static/js/3.768832d0.chunk.js.map",
+    "index.html": "/time-clock/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/time-clock/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a47964d4.chunk.js.LICENSE.txt": "/time-clock/static/js/2.a47964d4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/time-clock/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12b948a8.js",
+    "static/js/2.a47964d4.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.47d6ac4d.chunk.js"
+  ]
+}
